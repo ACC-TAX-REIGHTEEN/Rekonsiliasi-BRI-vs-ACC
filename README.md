@@ -1,4 +1,4 @@
-# Sistem Otomatisasi Rekonsiliasi Data Akuntansi dan Bank (BRI)
+a# Sistem Otomatisasi Rekonsiliasi Data Akuntansi dan Bank (BRI)
 
 Sistem ini dirancang untuk memproses dan mencocokkan (rekonsiliasi) data transaksi dari sistem akuntansi internal dengan mutasi rekening bank BRI secara otomatis. Program ini menangani pembersihan data mentah, pemformatan nilai mata uang, hingga logika pencocokan saldo dan transaksi.
 
@@ -27,7 +27,7 @@ pip install pandas numpy openpyxl
 
 ## Langkah-Langkah Penggunaan
 
-1. Persiapan File: Letakkan file 'Acc.xls' dan 'Bca.xlsx' di direktori yang sama dengan 'Jalankan Rekonsiliasi.py'.
+1. Persiapan File: Letakkan file 'Acc.xls' dan 'Bri.xlsx' di direktori yang sama dengan 'Jalankan Rekonsiliasi.py'.
 2. Eksekusi: Jalankan skrip utama dengan perintah:
    python "Jalankan Rekonsiliasi.py"
 3. Proses: Program akan secara otomatis memindahkan file input ke folder 'Dapur', membersihkan data, dan menjalankan logika pencocokan.
