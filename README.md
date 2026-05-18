@@ -1,4 +1,4 @@
-a# Sistem Otomatisasi Rekonsiliasi Data Akuntansi dan Bank (BRI)
+# Sistem Otomatisasi Rekonsiliasi Data Akuntansi dan Bank (BRI)
 
 Sistem ini dirancang untuk memproses dan mencocokkan (rekonsiliasi) data transaksi dari sistem akuntansi internal dengan mutasi rekening bank BRI secara otomatis. Program ini menangani pembersihan data mentah, pemformatan nilai mata uang, hingga logika pencocokan saldo dan transaksi.
 
