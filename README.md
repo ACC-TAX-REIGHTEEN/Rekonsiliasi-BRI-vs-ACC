@@ -10,7 +10,7 @@ Untuk menjalankan program ini, pastikan struktur direktori Anda adalah sebagai b
 
 - Jalankan Rekonsiliasi.py (Skrip utama untuk menjalankan seluruh alur)
 - Acc.xls (File input data akuntansi) --> Kas & Bank --> Buku Bank --> Print --> Centang Fast Export
-- Bri.xlsx (Buat ekstrakkan data dari pdf dengan python ini: https://github.com/ACC-TAX-REIGHTEEN/Mutasi-BRI-CSV-PDF-ke-Excel/tree/main ) dan beri nama Bri.xlsx hasilnya
+- Bri.xlsx (Buat ekstrakkan data dari pdf dengan python ini: https://github.com/ACC-TAX-REIGHTEEN/Mutasi-BRI-CSV-PDF-ke-Excel/tree/main ), apabila data pdf terdiri dari beberapa file harian, bisa gunakan alat ini untuk menggabungkan ( https://www.ihfandicahyo.com/p/menu-alat-utilitas.html ) dan beri nama Bri.xlsx hasilnya
 - Dapur/ (Folder sistem pendukung)
     - 1_AccCleaner.py (Pembersih data akuntansi)
     - 2_ProcessingData.py (Logika rekonsiliasi data)
